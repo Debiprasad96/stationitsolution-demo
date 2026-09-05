@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Interactive display for shared ideas</title><desc id="desc">A front view of a large touch display with connected planning notes, a drawing toolbar and a stylus. Original illustrative diagram, not a product photograph.</desc>
+<rect width="1200" height="800" fill="#eaece2"/><rect x="135" y="104" width="930" height="548" rx="22" fill="#24251f"/><rect x="153" y="123" width="894" height="506" rx="7" fill="#f6f5ef"/>
+<rect x="153" y="123" width="894" height="64" rx="7" fill="#fff"/><text x="185" y="164" font-family="Arial,sans-serif" font-size="22" fill="#24251f">A space for shared ideas</text><circle cx="994" cy="154" r="13" fill="#c9ad28"/>
+<path d="M450 320H535M685 320H772M610 372V450" fill="none" stroke="#929b85" stroke-width="4"/>
+<rect x="255" y="270" width="195" height="105" rx="9" fill="#d8decf"/><text x="284" y="331" font-family="Arial,sans-serif" font-size="25" fill="#24251f">Explore</text>
+<rect x="535" y="263" width="150" height="114" rx="9" fill="#c9ad28"/><text x="562" y="331" font-family="Arial,sans-serif" font-size="25" fill="#24251f">Create</text>
+<rect x="772" y="270" width="174" height="105" rx="9" fill="#d8decf"/><text x="806" y="331" font-family="Arial,sans-serif" font-size="25" fill="#24251f">Share</text>
+<path d="M489 485q48-44 96-3t100-9" fill="none" stroke="#796510" stroke-width="5" stroke-linecap="round"/><path d="m675 459 14 12-15 13" fill="none" stroke="#796510" stroke-width="5" stroke-linecap="round"/>
+<rect x="426" y="555" width="348" height="48" rx="24" fill="#fff" stroke="#d9dbd0"/><path d="m455 584 16-16 7 7-16 16h-7z" fill="#796510"/><circle cx="517" cy="579" r="8" fill="#24251f"/><circle cx="557" cy="579" r="8" fill="#c9ad28"/><circle cx="597" cy="579" r="8" fill="#7d9475"/><path d="M640 572h16v15h-16zM698 571v16M690 579h16" fill="none" stroke="#64675b" stroke-width="2"/>
+<circle cx="600" cy="642" r="4" fill="#c9ad28"/><path d="M575 652v55M625 652v55M501 711h198" fill="none" stroke="#24251f" stroke-width="14" stroke-linecap="round"/>
+<path d="m970 457 17-4 43 148-10 22-7-18z" fill="#796510"/>
+</svg>
