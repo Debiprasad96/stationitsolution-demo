@@ -1,0 +1,35 @@
+{
+  "generator": "Built-in image_gen (photorealistic illustrative samples)",
+  "assets": [
+    {
+      "name": "notebook",
+      "path": "sample-notebook.png",
+      "prompt": "Create a professional photorealistic ecommerce catalogue photograph. One closed unbranded navy blue A5 hardback notebook with a narrow elastic band, next to one simple black pen. Square composition, entire product visible with generous clean margins, centered at a natural three-quarter angle. Seamless warm off-white background #f6f5ef, soft studio lighting and subtle grounded shadow, accurate realistic proportions, crisp materials. No logos, brand marks, labels, numbers, text, watermark, people, hands, or extra objects. This is illustrative sample catalogue imagery, not a claim about an actual model. Save a single product photo."
+    },
+    {
+      "name": "chair",
+      "path": "sample-chair.png",
+      "prompt": "Create a professional photorealistic ecommerce catalogue photograph. One unbranded black mesh ergonomic office task chair with armrests and a five-wheel base. Square composition, entire product visible with generous clean margins, centered at a natural three-quarter angle. Seamless warm off-white background #f6f5ef, soft studio lighting and subtle grounded shadow, accurate realistic proportions, crisp materials. No logos, brand marks, labels, numbers, text, watermark, people, hands, or extra objects. This is illustrative sample catalogue imagery, not a claim about an actual model. Save a single product photo."
+    },
+    {
+      "name": "printer",
+      "path": "sample-printer.png",
+      "prompt": "Create a professional photorealistic ecommerce catalogue photograph. One compact unbranded white and charcoal office laser printer with a few blank paper sheets in the output tray. Square composition, entire product visible with generous clean margins, centered at a natural three-quarter angle. Seamless warm off-white background #f6f5ef, soft studio lighting and subtle grounded shadow, accurate realistic proportions, crisp materials. No logos, brand marks, labels, numbers, text, watermark, people, hands, or extra objects. This is illustrative sample catalogue imagery, not a claim about an actual model. Save a single product photo."
+    },
+    {
+      "name": "panel",
+      "path": "sample-panel.png",
+      "prompt": "Create a professional photorealistic ecommerce catalogue photograph. One unbranded large interactive touchscreen display on a slim mobile floor stand, screen showing a tasteful simple collaboration canvas with abstract notes and lines, no text. Square composition, entire product visible with generous clean margins, centered at a natural three-quarter angle. Seamless warm off-white background #f6f5ef, soft studio lighting and subtle grounded shadow, accurate realistic proportions, crisp materials. No logos, brand marks, labels, numbers, text, watermark, people, hands, or extra objects. This is illustrative sample catalogue imagery, not a claim about an actual model. Save a single product photo."
+    },
+    {
+      "name": "cleaning",
+      "path": "sample-cleaning.png",
+      "prompt": "Create a professional photorealistic ecommerce catalogue photograph. One coordinated workplace cleaning set: a grey carry caddy holding two unlabelled spray bottles, a microfiber cloth, a small hand brush and dustpan. Square composition, entire product visible with generous clean margins, centered at a natural three-quarter angle. Seamless warm off-white background #f6f5ef, soft studio lighting and subtle grounded shadow, accurate realistic proportions, crisp materials. No logos, brand marks, labels, numbers, text, watermark, people, hands, or extra objects. This is illustrative sample catalogue imagery, not a claim about an actual model. Save a single product photo."
+    },
+    {
+      "name": "helmet",
+      "path": "sample-helmet.png",
+      "prompt": "Create a professional photorealistic ecommerce catalogue photograph. One unbranded yellow industrial safety helmet with one pair of clear safety glasses neatly beside it. Square composition, entire product visible with generous clean margins, centered at a natural three-quarter angle. Seamless warm off-white background #f6f5ef, soft studio lighting and subtle grounded shadow, accurate realistic proportions, crisp materials. No logos, brand marks, labels, numbers, text, watermark, people, hands, or extra objects. This is illustrative sample catalogue imagery, not a claim about an actual model. Save a single product photo."
+    }
+  ]
+}
